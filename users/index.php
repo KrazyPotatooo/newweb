@@ -244,33 +244,27 @@
         </section>
 
         <!-- FOOTER SECTION -->
-        <section class="footer">
+ <section class="footer">
             <div class="footer-container">
                 <div class="logo">
-                    <img src="../assets/images/Logo2.png" class="img"><br />
+                <img src="../assets/images/Logo2.png" alt="" class="img-fluid"><br />
                     <i class="fas fa-envelope"></i>
-                    <p>abfiguerrez18@gmail.com</p><br />
+                    <p>202180134@psu.palawan.edu.ph</p><br />
                     <i class="fas fa-phone"></i>
-                    <p>+63 917-134-1422</p><br />
+                    <p>09876545152</p><br />
                     <i class="fab fa-facebook-messenger"></i>
-                    <p>@kapetanncoffee</p><br />
+                    <p>@BrewShop</p><br />
                 </div>
                 <div class="support">
                     <h2>Support</h2>
                     <br /> 
-                    <a href="#">Contact Us</a>
+                    <a href="contact.php">Contact Us</a>
                     <a href="#">Customer Service</a>
-                    <a href="#">Chatbot Inquiry</a>
-                    <a href="#">Submit a Ticket</a>
                 </div>
                 <div class="company">
                     <h2>Company</h2>
                     <br /> 
                     <a href="#">About Us</a>
-                    <a href="#">Affiliates</a>
-                    <a href="#">Resources</a>
-                    <a href="#">Partnership</a>
-                    <a href="#">Suppliers</a>
                 </div>
                 <div class="newsletters">
                     <h2>Newsletters</h2>
@@ -281,10 +275,11 @@
                         <i id="paper-plane-icon" class="fas fa-paper-plane"></i>
                     </div>
                 </div>
+
                 <div class="credit">
                     <hr /><br/>
-                    <h2>KapeTann Brewed Coffee © 2023 | All Rights Reserved.</h2>
-                    <h2>Designed by <span>Algo Filipino</span> | Teravision</h2>
+                    <h2>BrewShop © 2024 | All Rights Reserved.</h2>
+                    <h2>Designed by 202180134@psu.palawan.edu.ph<h2>Computer Science</h2> Student</h2>
                 </div>
             </div>
         </section>
