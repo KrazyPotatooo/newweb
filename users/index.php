@@ -80,7 +80,7 @@
         <!-- HERO SECTION -->
         <section class="home" id="home">
             <div class="content">
-                <h3>Welcome to KapeTann Coffee Shop</h3>
+                <h3>Welcome to Brews Coffee Shop</h3>
                 <p>
                     <strong>We are open 4:00 PM to 9:00 PM.</strong>
                 </p>
@@ -104,122 +104,6 @@
                     But coffee is not just a drink—it's an experience. The warm and inviting atmosphere at Brews CoffeeShop is designed to be a haven for coffee lovers, where they can relax, connect, and embark on their own coffee journeys.
                     </p>
                     <a href="#" class="btn btn-dark text-decoration-none">Learn More</a>
-                </div>
-            </div>
-        </section>
-
-        <!-- MENU SECTION -->
-        <section class="menu" id="menu">
-            <h1 class="heading">Our <span>Menu</span></h1>
-            <div class="box-container">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <div class="box">
-                                <img src="../assets/images/cart-item-1.png" alt="" class="product-img">
-                                <h3 class="product-title">Americano - Hot Espresso (12 OZ)</h3>
-                                <div class="price">₱45.00</div>
-                                <a class="btn add-cart">Add to Cart</a>
-                            </div>
-                        </div><br />
-                        <div class="col-md-4">
-                            <div class="box">
-                                <img src="../assets/images/cart-item-2.png" alt="" class="product-img">
-                                <h3 class="product-title">Colombian Supremo Cup (12 OZ)</h3>
-                                <div class="price">₱40.00</div>
-                                <a class="btn add-cart">Add to Cart</a>
-                            </div>
-                        </div><br />
-                        <div class="col-md-4">
-                            <div class="box">
-                                <img src="../assets/images/cart-item-3.png" alt="" class="product-img">
-                                <h3 class="product-title">Nitro Cold Brews w/ Straw (12 OZ)</h3>
-                                <div class="price">₱50.00</div>
-                                <a class="btn add-cart">Add to Cart</a>
-                            </div>
-                        </div>
-                    </div><br />
-                    <div class="row">
-                        <div class="col-md-4">
-                            <div class="box">
-                                <img src="../assets/images/cart-item-4.png" alt="" class="product-img">
-                                <h3 class="product-title">Seasonal Single-Origin (12 OZ)</h3>
-                                <div class="price">₱30.00</div>
-                                <a class="btn add-cart">Add to Cart</a>
-                            </div>
-                        </div><br />
-                        <div class="col-md-4">
-                            <div class="box">
-                                <img src="../assets/images/cart-item-5.png" alt="" class="product-img">
-                                <h3 class="product-title">Indonesian Sumatra Mandheling (12 OZ)</h3>
-                                <div class="price">₱40.00</div>
-                                <a class="btn add-cart">Add to Cart</a>
-                            </div>
-                        </div><br />
-                        <div class="col-md-4">
-                            <div class="box">
-                                <img src="../assets/images/cart-item-6.png" alt="" class="product-img">
-                                <h3 class="product-title">Mint Mojito Iced Coffee (12 OZ)</h3>
-                                <div class="price">₱55.00</div>
-                                <a class="btn add-cart">Add to Cart</a>
-                            </div>
-                        </div>
-                    </div><br />
-                    <div class="row row-to-hide">
-                        <div class="col-md-4">
-                            <div class="box">
-                                <img src="../assets/images/cart-item-7.png" alt="" class="product-img">
-                                <h3 class="product-title">Iced Americano (12 OZ)</h3>
-                                <div class="price">₱35.00</div>
-                                <a class="btn add-cart">Add to Cart</a>
-                            </div>
-                        </div><br />
-                        <div class="col-md-4">
-                            <div class="box">
-                                <img src="../assets/images/cart-item-8.png" alt="" class="product-img">
-                                <h3 class="product-title">Specialty Brews (12 OZ)</h3>
-                                <div class="price">₱85.00</div>
-                                <a class="btn add-cart">Add to Cart</a>
-                            </div>
-                        </div><br />
-                        <div class="col-md-4">
-                            <div class="box">
-                                <img src="../assets/images/cart-item-9.png" alt="" class="product-img">
-                                <h3 class="product-title">Seasonal Origin (12 OZ)</h3>
-                                <div class="price">₱80.00</div>
-                                <a class="btn add-cart">Add to Cart</a>
-                            </div>
-                        </div>
-                    </div><br />
-                    <div class="row row-to-hide">
-                        <div class="col-md-4">
-                            <div class="box">
-                                <img src="../assets/images/cart-item-10.png" alt="" class="product-img">
-                                <h3 class="product-title">Ethiopian Yirgacheffe Cup (12 OZ)</h3>
-                                <div class="price">₱55.00</div>
-                                <a class="btn add-cart">Add to Cart</a>
-                            </div>
-                        </div><br />
-                        <div class="col-md-4">
-                            <div class="box">
-                                <img src="../assets/images/cart-item-11.png" alt="" class="product-img">
-                                <h3 class="product-title">Cold Brews Tonic In a Cup (12 OZ)</h3>
-                                <div class="price">₱35.00</div>
-                                <a class="btn add-cart">Add to Cart</a>
-                            </div>
-                        </div><br />
-                        <div class="col-md-4">
-                            <div class="box">
-                                <img src="../assets/images/cart-item-12.png" alt="" class="product-img">
-                                <h3 class="product-title">Caramel Cold Foam Cold Brews (12 OZ)</h3>
-                                <div class="price">₱55.00</div>
-                                <a class="btn add-cart">Add to Cart</a>
-                            </div>
-                        </div>
-                    </div><br />
-                    <center>
-                        <button id="showHideBtn" class="btn btn-dark">SHOW MORE</button>
-                    </center> 
                 </div>
             </div>
         </section>
@@ -328,26 +212,6 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
         <script>
-            // CODE FOR THE FORMSPREE
-            window.onbeforeunload = () => {
-                for(const form of document.getElementsByTagName('form')) {
-                    form.reset();
-                }
-            }
-
-            // CODE FOR THE GOOGLE MAPS API
-            function initMap() {
-                var map = new google.maps.Map(document.getElementById('map'), {
-                    center: {lat: 14.99367271992383, lng: 120.17629231186626},
-                    zoom: 9
-                });
-
-                var marker = new google.maps.Marker({
-                    position: {lat: 14.99367271992383, lng: 120.17629231186626},
-                    map: map,
-                    title: 'Your Location'
-                });
-            }
 
             // CODE FOR THE SHOW MORE & SHOW LESS BUTTON IN MENU
             $(document).ready(function() {
